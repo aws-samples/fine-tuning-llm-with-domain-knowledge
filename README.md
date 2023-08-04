@@ -1,4 +1,4 @@
-# Fine-tuning a large language model (LLM) using domain-specific knowledge
+# Fine-Tuning the GPTJ-6B model using transfer learning
 
 ### Overview
 
