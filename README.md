@@ -4,16 +4,21 @@
 
 This repo contains a notebook that will walk you through how to fine-tune a pre-trained large language model with domain specific knowledge.
 
-The domain specific dataset that we will be using to fine-tune this model will be United Kingdom (U.K.) Supreme Court case documents. We will tune the model on roughly 693 legal documents. 
+The domain specific dataset that we will be using to fine-tune this model will be United Kingdom (U.K.) Supreme Court case documents. We will tune the model on roughly 693 legal documents.
+
+### Prereqs
+
+To run this notebook we assume you have knowledge about running a SageMaker Notebook instance or SageMaker Studio Notebook instance
 
 ## Dataset info
 * <strong>Page count:</strong> ~17,718
 * <strong>Word count:</strong> 10,015,333
 * <strong>Characters (no spaces):</strong> 49,897,639
 
-The entire dataset is publically available and can be download [here](https://zenodo.org/record/7152317#.ZCSfaoTMI2y)
+The entire dataset is available to be downloaded [here](https://zenodo.org/record/7152317#.ZCSfaoTMI2y)
 
 ## Considerations when fine-tuning the model
+
 The notebook has been configured to allow you to only use a subset of the entire dataset to fine-tune the model if you would like. There is a variable named _**doc_count**_ in the _**Data Prep**_ section. You can set this number to whatever you would like and it will only fine-tune the model based on the number of documents you set this variable to. The smaller this value the faster the model will fine-tune.
     
 ## Training/Tuning Time estimates
@@ -61,6 +66,8 @@ Steps you will go through to test the fine-tuned model
 ### Disclaimer
 This notebook demos how you can fine-tune an LLM using transfer learning. Even though this notebook is fine-tuned using actual (U.K.) Supreme Court case documents you should not use this notebook for legal advise.
 
-# Run training notebook
+# Running notebook
+
+To run the notebook download the notebook and upload it to a SageMaker Notebook instance or SageMaker Studio Notebook.
 
 [Go to Notebook](fine_tuning.ipynb)
