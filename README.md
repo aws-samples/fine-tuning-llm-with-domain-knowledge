@@ -60,3 +60,7 @@ Steps you will go through to test the fine-tuned model
     
 ### Disclaimer
 This notebook demos how you can fine-tune an LLM using transfer learning. Even though this notebook is fine-tuned using actual (U.K.) Supreme Court case documents you should not use this notebook for legal advise.
+
+# Run training notebook
+
+[Go to Notebook](fine_tuning.ipynb)
