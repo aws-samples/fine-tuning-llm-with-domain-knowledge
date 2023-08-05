@@ -10,6 +10,9 @@ The domain specific dataset that we will be using to fine-tune this model will b
 
 To run this notebook we assume you have knowledge about running a SageMaker Notebook instance or SageMaker Studio Notebook instance.
 
+### SageMaker Studio Resources
+
+[Introduction to Amazon SageMaker Studio - video](https://www.youtube.com/watch?v=YcJAc-x8XLQ)
 ## Dataset info
 * <strong>Page count:</strong> ~17,718
 * <strong>Word count:</strong> 10,015,333
