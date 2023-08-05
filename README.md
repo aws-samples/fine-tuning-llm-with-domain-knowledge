@@ -8,7 +8,7 @@ The domain specific dataset that we will be using to fine-tune this model will b
 
 ### Prereqs
 
-To run this notebook we assume you have knowledge about running a SageMaker Notebook instance or SageMaker Studio Notebook instance
+To run this notebook we assume you have knowledge about running a SageMaker Notebook instance or SageMaker Studio Notebook instance.
 
 ## Dataset info
 * <strong>Page count:</strong> ~17,718
@@ -61,6 +61,7 @@ Steps you will go through to test the fine-tuned model
 8. Parse endpoint results
 
 ### Final Step
+
 * Be sure you delete all models and endpoints to avoid incurring unneeded spend.
     
 ### Disclaimer
@@ -68,6 +69,6 @@ This notebook demos how you can fine-tune an LLM using transfer learning. Even t
 
 # Running notebook
 
-To run the notebook download the notebook and upload it to a SageMaker Notebook instance or SageMaker Studio Notebook.
+To run the notebook clone this repo in SageMaker Notebook instance or SageMaker Studio Notebook.
 
 [Go to Notebook](fine_tuning.ipynb)
