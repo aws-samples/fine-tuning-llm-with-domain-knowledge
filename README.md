@@ -14,7 +14,7 @@ To run this notebook we assume you have knowledge about running a SageMaker Note
 
 [Introduction to Amazon SageMaker Studio - Video](https://www.youtube.com/watch?v=YcJAc-x8XLQ)
 
-[Build ML models using SageMaker Studio Notebooks - Workshpp](https://www.youtube.com/watch?v=1iSiN4sVMjE)
+[Build ML models using SageMaker Studio Notebooks - Workshop](https://www.youtube.com/watch?v=1iSiN4sVMjE)
 
 ## Dataset info
 * <strong>Page count:</strong> ~17,718
