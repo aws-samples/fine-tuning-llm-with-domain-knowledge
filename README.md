@@ -13,6 +13,8 @@ To run this notebook we assume you have knowledge about running a SageMaker Note
 ### SageMaker Studio Resources
 
 [Introduction to Amazon SageMaker Studio - video](https://www.youtube.com/watch?v=YcJAc-x8XLQ)
+[Build ML models using SageMaker Studio Notebooks - Workshpp](https://www.youtube.com/watch?v=1iSiN4sVMjE)
+
 ## Dataset info
 * <strong>Page count:</strong> ~17,718
 * <strong>Word count:</strong> 10,015,333
