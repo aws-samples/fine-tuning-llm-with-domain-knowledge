@@ -1,4 +1,4 @@
-# Fine-Tuning the GPTJ-6B model using transfer learning
+# Fine-tuning the HuggingFace GPTJ-6B large language model (LLM) using domain-specific knowledge
 
 ### Overview
 
