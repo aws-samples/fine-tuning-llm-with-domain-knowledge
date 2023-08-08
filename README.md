@@ -81,4 +81,4 @@ This notebook demos how you can fine-tune an LLM using transfer learning. Even t
 
 To run the notebook clone this repo in a SageMaker Notebook instance or SageMaker Studio Notebook.
 
-[Go to Notebook](fine_tuning.ipynb)
+[Go to Notebook](src/fine_tuning.ipynb)
