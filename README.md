@@ -28,7 +28,7 @@ The entire dataset is available to be downloaded [here](https://zenodo.org/recor
 
 ## Considerations when fine-tuning the model
 
-The notebook has been configured to allow you to use only a subset of the entire dataset to fine-tune the model if desired. In the Data Prep section, there is a variable called *doc_count*. You can set this number to your preference, and the model will be fine-tuned based on that specific number of case from the dataset. The smaller the value you set for this variable, the faster the model will fine-tune.
+The notebook has been configured to allow you to use only a subset of the entire dataset to fine-tune the model if desired. In the Data Prep section, there is a variable called *doc_count*. You can set this number to your preference, and the model will be fine-tuned based on that specific number of cases from the dataset. The smaller the value you set for this variable, the faster the model will fine-tune.
 
 ## Training/Tuning Time estimates
 
