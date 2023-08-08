@@ -1,4 +1,4 @@
-# Fine-tuning HuggingFace GPTJ-6B with U.K. Supreme Court Case Documents for domain specific fine-tuning
+# Fine-tuning HuggingFace GPTJ-6B with U.K. Supreme Court Case documents for domain specific fine-tuning
 
 ### Overview
 
