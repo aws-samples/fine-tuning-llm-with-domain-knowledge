@@ -1,4 +1,4 @@
-# Fine-tuning the HuggingFace GPTJ-6B large language model (LLM) using domain-specific knowledge
+# Fine-tuning HuggingFace GPTJ-6B with U.K. Supreme Court Case Documents for domain specific fine-tuning
 
 ### Overview
 
