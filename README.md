@@ -4,7 +4,7 @@
 
 This repo contains a notebook that will walk you through how to fine-tune a pre-trained large language model with domain specific knowledge.
 
-The domain specific dataset that we will be using to fine-tune this model will be from United Kingdom (U.K.) Supreme Court case documents. We will tune the model on roughly 693 legal documents. Because we are using transfer learning to train the model we are transfering the current model knowledge to a new model without having to train the entire GPTJ-6B model again. This allows us to shorten the time the model needs to train on the new dataset.
+The domain specific dataset that we will be using to fine-tune this model will be from United Kingdom (U.K.) Supreme Court case documents. We will tune the model on roughly 693 legal documents.
 
 ### Prereqs
 
